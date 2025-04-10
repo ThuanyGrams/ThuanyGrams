@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/ThuanyGrams">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThuanyGrams&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuanyGrams&layout=compact&langs_count=6&theme=onedark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThuanyGrams&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuanyGrams&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
     
 <div style="display: inline_block"><br>
